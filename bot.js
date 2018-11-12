@@ -39,4 +39,4 @@ client.on('ready', async() => {
 
 
 
-client.login("BOT_TOKEN");
+client.login("NDQ5ODUwOTc0MDY1MTMxNTMw.DssSxg.UbFLctGLqdnkawyO-oNzFa8lA50");
